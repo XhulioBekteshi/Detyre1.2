@@ -1,0 +1,46 @@
+.logo {
+    height: 46px;
+    margin: 0px -20px;
+  }
+  .left-main {
+    width: 25%;
+    float: left;
+  }
+  .right-main {
+    width: 75%;
+  }
+  .order {
+    width: 25%;
+    margin: 20px 20px;
+    display: inline;
+    margin: 0px 10px;
+  }
+  .info {
+    float: right;
+    width: 75%;
+    margin: -327px 20px;
+  }
+ .profile {
+    width: 270px;
+  }
+  .link {
+    display: inline-block;
+    background-color: rgb(72, 241, 10);
+    margin: 0px 10px;
+  }
+  .hidden {
+    list-style: none;
+  }
+  .info-photo {
+    width: 700px;
+  }
+  h3 {
+
+    margin: 5px 15px;
+  }
+  h1 { 
+    margin: 20px 10px;
+  } 
+  .posted { 
+    margin: 0px 10px;
+  }
